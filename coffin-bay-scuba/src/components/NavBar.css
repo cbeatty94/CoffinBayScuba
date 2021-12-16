@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #8bb4cb
+}
+
+.navButton {
+    background-color: #2c97a7
+}
+
+.navLogo {
+    height: 100px;
+    width: auto;
+    padding: 0;
+}
+
+.navLink {
+    font-size: 20px;
+    color: #232627 !important;
+}
